@@ -7,7 +7,7 @@ I am a builder with **6+ years of professional experience** crafting high-scale 
 ---
 
 ### 🚀 Professional Highlights
-- **Tech Lead / Automation:** Developed massive-scale web scrapers and automations at **Globo** (via Act Digital) using Python and Playwright.
+- ** Adtech / Automation:** Developed  web scrapers and automations at **Globo** (via Act Digital) using Python and Playwright. Help deliver Audience Segmentation solutions to millions of users.
 - **Enterprise Salesforce:** Engineered high-performance **LWC (Lightning Web Components)** for **C6 Bank** (via Everymind).
 - **International Web:** Architected and managed large-scale **WordPress & PHP** environments for **Yinflow**, serving global markets.
 - **SaaS Founder:** Building **FeiraFlow** (Street Market Management) and **Cabelo Marcado** (Beauty Salon Scheduling).
