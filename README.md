@@ -1,6 +1,6 @@
 # 👋 Hi, I'm Théo Oliveira
 
-**Senior Fullstack Developer | SaaS Founder | Tech Lead**  
+**Senior Fullstack Developer | SaaS Founder | Tech Lead | Product Engineeer | Sec Enthusiast**  
 📍 Suzano, SP, Brazil → 🎯 Seeking USD-paying remote roles (US-based companies)
 
 [![GitHub followers](https://img.shields.io/github/followers/theooliveira?style=social)](https://github.com/theooliveira)
